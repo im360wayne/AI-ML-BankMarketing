@@ -32,3 +32,8 @@ The complete list of customer attributes in priority order is available for down
 1. The financial instituation should review the sorted list of customer attributes that contributed to acceptance rates and create targed marketing campaigns that focues on these groups.
 2. As the recommendations are only as good as the data used, the bank to continuously provide updated marketing campaign and acceptance data for re-evaluation. 
  
+
+ **Full Technical Analysis**
+
+The full Machine Learning technical analysis can be found in the Juypter Notebook here:
+<a href="BankMarketing.ipynb">BankMarketing.ipynb</a>
